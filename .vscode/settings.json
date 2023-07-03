@@ -1,0 +1,6 @@
+{
+    "java.format.settings.url": "esbenp.prettier",
+    "[javascript]": {
+        "editor.defaultFormatter": "formulahendry.code-runner"
+    }
+}
